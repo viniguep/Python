@@ -1,2 +1,2 @@
-# Python
- Aprenda a programar em python!
+# Python  
+ Aprenda a programar em python 🐍!
